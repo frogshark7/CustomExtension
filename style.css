@@ -38,21 +38,21 @@ a{
 img#custom-load{
 	height: 30% !important;
 	padding-left: 10px;
-	padding-bottom: 35px !important;
+	padding-bottom: 50px !important;
 }
 
 img#custom-last{
 	height: 65% !important;
 	padding-left: 10px !important;
 	padding-top: 0px !important;
-	margin-top:40px !important;
+	margin-top:60px !important;
 }
 
 img#custom-g{
-	height: 50% !important;
+	height: 48% !important;
 	width: auto !important;
 	padding-top: 0px !important;
-	padding-bottom: 35px !important;
+	padding-bottom: 50px !important;
 }
 
 img#hplogo{

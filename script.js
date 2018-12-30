@@ -11,7 +11,7 @@
 	img2.setAttribute("id", "custom-load");
 
 	var img3 = document.createElement("img");
-	img3.src = "https://i.imgur.com/0YDjzkk.png";
+	img3.src = "https://i.imgur.com/cpeVBCj.png";
 	img3.setAttribute("id", "custom-last");
 
 	var parent = document.getElementById("lga");
