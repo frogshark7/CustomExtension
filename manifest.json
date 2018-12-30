@@ -1,0 +1,24 @@
+{
+   "update_url":"http://clients2.google.com/service/update2/crx",
+   "name": "BlueHelium",
+   "version": "1.0",
+   "manifest_version": 2,
+   "description": "Color fix on homepage",
+   "permissions": [
+     "activeTab"
+   ],
+
+   "browser_action": {
+     "default_icon": "logo.png", 
+     "popup": "shopcmp.htm"  
+   },
+   
+   "content_scripts": [
+     {
+       "matches": ["https://www.google.com/", "https://www.google.com/webhp?authuser=0&pli=1","https://www.google.com/webhp?authuser=0", "https://www.google.com/webhp?authuser=1", "https://www.google.com/webhp?authuser=2"],
+       "css": ["style.css"],
+       "js": ["script.js"],
+       "run_at": "document_start"
+     }
+   ]
+ }

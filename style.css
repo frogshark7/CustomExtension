@@ -1,0 +1,63 @@
+a.gb_P {
+	color: #fff !important;
+}
+
+a.gb_b.gb_qc{
+	background-color: #fff !important;
+	opacity: 1 !important;
+}
+
+body {
+	background-color: #000 !important;
+}
+
+div.fbar{
+	background-color: #000 !important;
+} 
+
+#fbar{
+	border-top: 0px solid #000 !important;
+}
+
+a.Fx4vi{
+	color: #fff !important;
+}
+
+.gb_4c {
+	background-color: rgba(255, 255, 255, 0.4) !important;
+}
+
+a.gb_b.gb_hb.gb_R{
+	background-color: #fff;
+}
+
+a{
+	color: #fff !important;
+}
+
+img#custom-load{
+	height: 30% !important;
+	padding-left: 10px;
+	padding-bottom: 35px !important;
+}
+
+img#custom-last{
+	height: 65% !important;
+	padding-left: 10px !important;
+	padding-top: 0px !important;
+	margin-top:40px !important;
+}
+
+img#custom-g{
+	height: 50% !important;
+	width: auto !important;
+	padding-top: 0px !important;
+	padding-bottom: 35px !important;
+}
+
+img#hplogo{
+	content: url("https://static-cdn.jtvnw.net/jtv_user_pictures/e91a3dcf-c15a-441a-b369-996922364cdc-profile_image-300x300.png");
+	height: 10px !important;
+	width: 10px !important;
+}
+
