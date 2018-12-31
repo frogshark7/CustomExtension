@@ -1,4 +1,4 @@
-(window.onload = function() {
+window.onload = function() {
 	var elem = document.getElementById('hplogo');
 	elem.parentNode.removeChild(elem);
 
@@ -21,5 +21,5 @@
 	parent.appendChild(img);
 	parent.appendChild(img2);
 	parent.appendChild(img3);
-})();
+};
 

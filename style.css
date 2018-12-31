@@ -55,7 +55,7 @@ img#custom-g{
 	padding-bottom: 50px !important;
 }
 
-img#hplogo{
+#hplogo{
 	content: url("https://static-cdn.jtvnw.net/jtv_user_pictures/e91a3dcf-c15a-441a-b369-996922364cdc-profile_image-300x300.png");
 	height: 10px !important;
 	width: 10px !important;
