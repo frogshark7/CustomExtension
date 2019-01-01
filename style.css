@@ -61,14 +61,22 @@ img#custom-g{
 	width: 10px !important;
 }
 
-span{
-	color: #fff !important;
-}
-
-.hb2Smf{
+div > span.hb2Smf{
 	content: url("https://i.imgur.com/Ua1vitL.png") !important;
 	height: 40px !important;
 	width: auto !important;
 	padding-bottom: 3px !important;
+}
+
+a#sbfblt{
+	background-color: transparent !important;
+}
+
+span.gb_Z{
+	color: #000 !important;
+}
+
+a.gb_Aa.gb_og.gb_9e.gb_Mb, a#gb_71{
+	color: #000 !important;
 }
 
