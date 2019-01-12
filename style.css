@@ -1,40 +1,4 @@
-a.gb_P {
-	color: #fff !important;
-}
-
-a.gb_b.gb_qc{
-	background-color: #fff !important;
-	opacity: 1 !important;
-}
-
-body {
-	background-color: #000 !important;
-}
-
-div.fbar{
-	background-color: #000 !important;
-} 
-
-#fbar{
-	border-top: 0px solid #000 !important;
-}
-
-a.Fx4vi{
-	color: #fff !important;
-}
-
-.gb_4c {
-	background-color: rgba(255, 255, 255, 0.4) !important;
-}
-
-a.gb_b.gb_hb.gb_R{
-	background-color: #fff;
-}
-
-a{
-	color: #fff !important;
-}
-
+/*Start logo change*/
 img#custom-load{
 	height: 30% !important;
 	padding-left: 10px;
@@ -60,27 +24,85 @@ img#custom-g{
 	height: 10px !important;
 	width: 10px !important;
 }
+/*End logo change*/
 
-div > span.hb2Smf{
-	content: url("https://i.imgur.com/Ua1vitL.png") !important;
-	height: 40px !important;
-	width: auto !important;
-	padding-bottom: 3px !important;
+body{
+	/*background-color: #000!important;*/
 }
 
-a#sbfblt{
+/*About/Store text*/
+#hptl a{
+	color: #000 !important;
+	content: url("") !important;
+	cursor: pointer;
+}
+
+/*Gmail/Images Text*/
+div.gb_Qe a{
+	color: #fff !important;
+}
+
+/*Bottom bar*/
+#fbar, #fbar a{
 	background-color: transparent !important;
-}
-
-span.gb_Z{
+	border-top: 0px solid #000 !important;
 	color: #000 !important;
+	content: url("") !important;
+	cursor: pointer;
 }
 
-a.gb_Aa.gb_og.gb_9e.gb_Mb, a#gb_71{
-	color: #000 !important;
+/*Body Black*/
+body{
+	background-color: #000 !important;
 }
 
-a.gb_ga.gb_ng, a.gb_fa.gb_sg{
-	color: #000 !important;
+/*Make Google input round*/
+.RNNXgb {
+	border-radius: 100px !important;
+    width: 625px !important;
+    margin-left: -20px !important;
 }
 
+/*App Logo*/
+a.gb_b.gb_xc{
+	background-color: #fff !important;
+	opacity: 1 !important;
+}
+
+/*Notif Logo*/
+div.gb_bd > a.gb_b{
+	background-color: #000 !important;
+	opacity: 1 !important;
+}
+
+/*.gb_7c.gb_ud.gb_R.gb_8c > div.gb_ad{
+	background-color: #fff !important;
+	border-radius: 100px;
+	border: .1px solid #fff;
+}*/
+
+/*Profile Pic*/
+a.gb_b.gb_hb.gb_R{
+	background-color: #fff !important;
+	border-radius: 25px;
+	height: 35px !important;
+	width: 35px !important;
+}
+
+span.gb_cb.gbii {
+    height: 96%;
+    width: 96%;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+
+/*Bar of text under search*/
+div#prm a{
+	color: #fff !important;
+}
+
+/*Report suggestions*/
+a#sbfblt{
+	background: transparent !important;
+	color: #fff !Important;
+}

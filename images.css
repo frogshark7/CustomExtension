@@ -1,57 +1,46 @@
-a.gb_P {
+body{
+	/*background-color: #000!important;*/
+}
+
+/*About/Store text*/
+#hptl a{
 	color: #fff !important;
 }
 
-a.gb_b.gb_qc{
+/*Gmail/Images Text*/
+.gb_Ke.gb_R.gb_gh.gb_7g a{
+	color: #fff !important;
+}
+
+/*Bottom bar*/
+#fbar, #fbar a{
+	background-color: transparent !important;
+	border-top: 0px solid #000 !important;
+	color: #fff !important;
+}
+
+/*Body Black*/
+body{
+	background-color: #000 !important;
+}
+
+/*Gmail logos*/
+a.gb_b.gb_rc {
 	background-color: #fff !important;
 	opacity: 1 !important;
 }
 
-body {
-	background-color: #000 !important;
-}
-
-div.fbar{
-	background-color: #000 !important;
-} 
-
-#fbar{
-	border-top: 0px solid #000 !important;
-}
-
-a.Fx4vi{
-	color: #fff !important;
-}
-
-.gb_4c {
-	background-color: rgba(255, 255, 255, 0.4) !important;
-}
-
-a.gb_ga.gb_ng{
-	color: #000 !important;
-}
-
-
+/*Profile Pic*/
 a.gb_b.gb_hb.gb_R{
-	background-color: #fff;
+	background-color: #fff !important;
+	border-radius: 25px;
+	height: 35px !important;
+	width: 35px !important;
 }
 
-a{
-	color: #fff !important;
-}
-
-div > span.hb2Smf{
-	content: url("https://i.imgur.com/Ua1vitL.png") !important;
-	height: 40px !important;
-	width: auto !important;
-	padding-bottom: 3px !important;
-}
-
-a#sbfblt{
-	background-color: transparent !important;
-}
-
-a.gb_Aa.gb_og.gb_9e.gb_Mb, a#gb_71, a.gb_fa.gb_sg, 
-span.gb_Z{
-	color: #000 !important;
+span.gb_cb.gbii{
+    height: 96%;
+    width: 96%;
+    margin-top: 1px;
+    margin-left: 1px;
 }
