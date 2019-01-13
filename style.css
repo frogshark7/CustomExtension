@@ -70,30 +70,16 @@ a.gb_b.gb_xc{
 }
 
 /*Notif Logo*/
-div.gb_bd > a.gb_b{
+.gb_7c.gb_ud.gb_R.gb_8c > div.gb_ad {
 	background-color: #000 !important;
 	opacity: 1 !important;
+	border: 2px solid #fff;
+        border-radius: 30px;
 }
-
-/*.gb_7c.gb_ud.gb_R.gb_8c > div.gb_ad{
-	background-color: #fff !important;
-	border-radius: 100px;
-	border: .1px solid #fff;
-}*/
 
 /*Profile Pic*/
-a.gb_b.gb_hb.gb_R{
-	background-color: #fff !important;
-	border-radius: 25px;
-	height: 35px !important;
-	width: 35px !important;
-}
-
-span.gb_cb.gbii {
-    height: 96%;
-    width: 96%;
-    margin-top: 1px;
-    margin-left: 1px;
+span.gb_cb.gbii{
+	border: 2px solid #fff;
 }
 
 /*Bar of text under search*/

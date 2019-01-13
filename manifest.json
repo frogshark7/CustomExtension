@@ -21,8 +21,9 @@
        "run_at": "document_start"
      },
      {
-       "matches": ["https://www.google.com/imghp?hl=en&tab=wi&authuser=0", "https://www.google.com/imghp?hl=en&tab=wi&authuser=1", "https://www.google.com/imghp?hl=en&tab=wi&authuser=2"],
+       "matches": ["https://www.google.com/imghp?hl=en&authuser=0", "https://www.google.com/imghp?hl=en&tab=wi&authuser=0", "https://www.google.com/imghp?hl=en&tab=wi&authuser=1", "https://www.google.com/imghp?hl=en&tab=wi&authuser=2"],
        "css": ["images.css"],
+       "js": ["scriptimg.js"],
        "run_at": "document_start"
      }
    ]
