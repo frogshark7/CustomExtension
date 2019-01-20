@@ -3,7 +3,7 @@ window.onload = function() {
 	elem.parentNode.removeChild(elem);
 
 	var search = document.querySelector("input.gLFyf.gsfi");
-	search.setAttribute("placeholder", "Subscribe to PewDiePie...")
+	search.setAttribute("placeholder", "Search...")
 
 	var img = document.createElement("img");
 	img.src = "https://media.giphy.com/media/oNwtfA16trRv0nSCez/giphy.gif";
