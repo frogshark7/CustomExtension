@@ -64,3 +64,8 @@ a#sbfblt{
 	background: transparent !important;
 	color: #fff !Important;
 }
+
+/*Textbar under searchbar*/
+div#prm{
+	color: #fff !important;
+}
