@@ -3,14 +3,14 @@ window.onload = function() {
 	elem.parentNode.removeChild(elem);
 
 	var search = document.querySelector("input.gLFyf.gsfi");
-	search.setAttribute("placeholder", "Search...")
+	search.setAttribute("placeholder", "Search Google or type a URL")
 
 	var img = document.createElement("img");
-	img.src = "https://media.giphy.com/media/oNwtfA16trRv0nSCez/giphy.gif";
+	img.src = "https://s2.gifyu.com/images/g-logo.gif";
 	img.setAttribute("id", "custom-g");
 	
 	var img2 = document.createElement("img");
-	img2.src = "https://media.giphy.com/media/lzCY0C6M50jbe29R1B/giphy.gif";
+	img2.src = "https://s2.gifyu.com/images/load-logo.gif";
 	img2.setAttribute("id", "custom-load");
 
 	var img3 = document.createElement("img");
