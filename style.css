@@ -56,13 +56,6 @@ body{
 	background-color: #000 !important;
 }
 
-/*Make Google input round*/
-.RNNXgb {
-	border-radius: 100px !important;
-    width: 625px !important;
-    margin-left: -20px !important;
-}
-
 /*App Logo*/
 a.gb_x.gb_Vb{
 	background-color: #fff !important;
@@ -90,7 +83,7 @@ div#prm a{
 /*Report suggestions*/
 a#sbfblt{
 	background: transparent !important;
-	color: #fff !Important;
+	color: #000 !Important;
 }
 
 /*Textbar under searchbar*/
